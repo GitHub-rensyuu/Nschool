@@ -1,0 +1,10 @@
+.face {
+  color: darkblue;
+  /* transform: rotateX(60deg); */
+}
+
+.back {
+  color: red;
+  /* 透明度 */
+  opacity: 0.4;
+}
